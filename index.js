@@ -1,3 +1,3 @@
-const mainBranch = false;
+const masterBranch = false;
 
 const developBranch = true
